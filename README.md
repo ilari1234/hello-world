@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Learning github. 
+
+I am Ilari and I am learning project control tools.
+
+Cool.
