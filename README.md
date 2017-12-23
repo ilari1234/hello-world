@@ -1,5 +1,5 @@
 # hello-world
-Learningn github. 
+Learning github. 
 
 I am Ilari and I am learning project control tools.
 
